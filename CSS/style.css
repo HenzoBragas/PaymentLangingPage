@@ -1,0 +1,72 @@
+/*Colors
+E9DCFF
+1E1E1E
+2B2D3D
+FFFFFF
+
+FONTS
+Poppins
+*/
+/*General*/
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #1E1E1E;
+    font-family: 'Poppins';
+}
+
+
+/*NavBar*/
+#navbar{
+    display: flex;
+    margin: 40px;
+    max-width: 1600px;
+}
+
+#logo-image{
+  margin-left: 10px;
+}
+
+#navbarLinks{
+    margin: 10px 290px;
+}
+
+#navbarLinks a{
+    align-items: center;
+    justify-content: center;
+    padding-right: 85px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#navbarLinks a:hover{
+    transition: 0.2s;
+    color: #E9DCFF;
+}
+
+#btnLogin,
+#btnSing{
+    background-color: #E9DCFF;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 18px 25px;
+    border-radius: 20px;
+    position: relative;
+    right: 80px;
+}
+
+#btnLogin{
+    right: 95px;
+}
+
+
+/*Container*/
+
+.container{
+    max-width: 1600px;
+    border: 1px solid red;
+    margin: 40px;
+}
