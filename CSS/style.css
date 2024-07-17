@@ -25,6 +25,7 @@ Poppins
 
 #logo-image{
   margin-left: 10px;
+  cursor: pointer;
 }
 
 #navbarLinks{
@@ -56,6 +57,7 @@ Poppins
     border-radius: 20px;
     position: relative;
     right: 80px;
+    cursor: pointer;
 }
 
 #btnLogin{
