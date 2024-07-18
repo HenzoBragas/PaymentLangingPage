@@ -1,26 +1,23 @@
-![contact us form](./design/desktop.svg)
 
-**Challenge Title**
-Payment Landing Page
 
-**Challenge Description**
-We need a landing page for every type of website/app. It helps users to get to know about our product. In this challenge, You’ll create a Payment Landing Page for a fictional Payment App.
+# Payment Landing Page
 
-**Difficulty Level**
-Beginner
+<img src="./CSS/IMG/Desktop.png">
 
-**Tags**
-FRONTEND
+### Desafio promovido pelo FrontendPro Coding Challenges. 
 
-**Learning**
-You'll learn to build a Payment Landing Page for a fictional Payment App and you'll learn to make it responsive and mobile-friendly. You're definitely going to love this challenge. So what are you waiting for?
+## **Challenge Description:**
+### A ideia do desafio é desenvolver uma página inicial para um aplicativo de pagamento fictício.A intenção do projeto era aplicar as diversas tecnícas de estilização utilizando CSS e a estruturação do site utilizando HTML5. 
 
-**Requirements**
+<br>
 
-- Show hover effect of all the elements
-- Show hamburger menu on mobile devices
-- Make it responsive
+## Difficulty Level 
+### Beginner
 
-I hope you'll enjoy building this challenge.
 
-Feel free to share your solution on the website or on social media and tag us.
+<br>
+
+## **Requirements**
+### - Mostrar efeito de foco de todos os elementos
+### - Mostrar menu de hambúrguer em dispositivos móveis
+### - Responsividade

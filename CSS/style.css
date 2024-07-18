@@ -66,7 +66,11 @@ Poppins
     right: 95px;
 }
 
-
+#btnLogin:hover,
+#btnSing:hover{
+    background-color: #c9b4ee;
+    transition: 0.2s;
+}
 
 /*Container*/
 
