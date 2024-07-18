@@ -13,13 +13,14 @@ Poppins
     margin: 0;
     background-color: #1E1E1E;
     font-family: 'Poppins';
+    
 }
 
 
 /*NavBar*/
 #navbar{
     display: flex;
-    margin: 40px;
+    margin: 50px;
     max-width: 1600px;
 }
 
@@ -58,6 +59,7 @@ Poppins
     position: relative;
     right: 80px;
     cursor: pointer;
+    border: none;
 }
 
 #btnLogin{
@@ -65,10 +67,71 @@ Poppins
 }
 
 
+
 /*Container*/
 
-.container{
+main{
+    height: 500px;
     max-width: 1600px;
-    border: 1px solid red;
-    margin: 40px;
+    max-height: 750px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.title{
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 50px;
+
+}
+
+.title .secondTitle h3{
+    width: 20%;
+    color: #E9DCFF;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.title h1{
+    width: 50%;
+    color: #E9DCFF;
+    font-size: 50px;
+}
+
+#btn-download input{    
+   color: #1E1E1E;
+   background-color: #E9DCFF;
+   padding: 15px 50px 15px 30px;
+   border-radius: 10px;
+   font-size: 20px;
+   font-weight: 700;
+   margin: 50px 50px; 
+   border: none;
+   cursor: pointer;
+}
+
+#btn-download input:hover,
+#btn-download img:hover{
+    transition: 0.2s;
+    background-color: #c9b4ee ;
+}
+
+#btn-download img{
+    position: relative;
+    right: 100px;
+    top: 5px;
+    background-color:#E9DCFF;
+    cursor: pointer;
+}
+
+
+
+.image-container{
+    width: 35%;
+    position: relative;
+    bottom: 580px;
+    margin-left: 1000px;
 }
