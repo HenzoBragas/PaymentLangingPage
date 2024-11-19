@@ -7,7 +7,7 @@
 
 ### Desafio promovido pelo FrontendPro Coding Challenges. 
 
-## **Descroção do desaf**
+## **Descrição do desafio**
  A ideia do desafio é desenvolver uma página inicial para um aplicativo de pagamento fictício.A intenção do projeto era aplicar as diversas tecnícas de estilização utilizando CSS e a estruturação do site utilizando HTML5. 
 
 <br>
